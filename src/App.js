@@ -1,7 +1,7 @@
 function App() {
     return (
         <div>
-            <h1>Todo</h1>
+            <h1>Todoo</h1>
             <input />
         </div>
     )
